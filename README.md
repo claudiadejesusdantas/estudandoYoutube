@@ -9,6 +9,15 @@ Repositório com os canais do Youtube que uso para aprender tecnologia, idiomas 
   <h2 align="center">Tags</h2>
   <ul>
     <li>#Inglês</li>
+    <li>#Ensino Médio/Fundamental</li>
+    <li>#Espanhol</li>
+    <li>#RH</li>
+    <li>#Matemática</li>
+    <li>#Tecnologia</li>
+    <li>#Chinese</li>
+    <li>#</li>
+    <li>#</li>
+    
   </ul>
 </div>
 
@@ -45,17 +54,40 @@ Repositório com os canais do Youtube que uso para aprender tecnologia, idiomas 
 
 [Julia Jolie](https://www.youtube.com/c/JuliaJolie/search?query=ingl%C3%AAs)
 
-[SmallAdvantages](https://www.youtube.com/c/SmallAdvantages)
+[Learn English with EnglishClass101.com](https://www.youtube.com/@EnglishClass101)
 
 [Novo Telecurso](https://www.youtube.com/user/TelecursoNovo/search?query=ingles)
-
-[Telecurso](https://www.youtube.com/user/telecurso/search?query=ingles)
 
 [Oficina resolve](https://www.youtube.com/c/OficinaResolve/search?query=ingl%C3%AAs)
 
 [Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1)
 
 [Rachel's English](https://www.youtube.com/c/rachelsenglish/featured)
+
+[SmallAdvantages](https://www.youtube.com/c/SmallAdvantages)
+
+[Telecurso](https://www.youtube.com/user/telecurso/search?query=ingles)
+
+[Teacher Rafael](https://www.youtube.com/@TeacherRafael)
+
+[Tia do Inglês](https://www.youtube.com/@TiaDoIngles)
+
+# #Espanhol
+[Vamos a Hablar Español](https://www.youtube.com/@vamosahablarespanol)
+
+[Tio Spanish: aprender español online](https://www.youtube.com/@TioSpanish)
+
+# #Ensino Médio/Fundamental
+[Toda Matéria](https://www.youtube.com/@TodaMateriaOficial/playlists)
+
+# #Tecnologia
+[Glaucia Lemos](https://www.youtube.com/@GlauciaLemos)
+
+# #RH
+
+# #Matemática
+
+# #Chinese
 
 
 
