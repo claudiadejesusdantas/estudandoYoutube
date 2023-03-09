@@ -86,10 +86,18 @@ Repositório com os canais do Youtube que uso para aprender tecnologia, idiomas 
 
 # #Tecnologia
 [Glaucia Lemos](https://www.youtube.com/@GlauciaLemos)
+
 [Microsoft Reactor](https://www.youtube.com/@MicrosoftReactor)
+
 [WoMakersCode](https://www.youtube.com/@WoMakersCode)
+
 [Ada](https://www.youtube.com/@adatechbr)
+
 [Adriana Saty](https://www.youtube.com/@AdrianaSaty)
+
+[Alura](https://www.youtube.com/@Alura)
+
+
 
 
 
