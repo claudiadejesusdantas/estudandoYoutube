@@ -15,7 +15,7 @@ Repositório com os canais do Youtube que uso para aprender tecnologia, idiomas 
     <li>#Matemática</li>
     <li>#Tecnologia</li>
     <li>#Chinese</li>
-    <li>#</li>
+    <li>#Saúde</li>
     <li>#</li>
     
   </ul>
@@ -80,16 +80,45 @@ Repositório com os canais do Youtube que uso para aprender tecnologia, idiomas 
 # #Ensino Médio/Fundamental
 [Toda Matéria](https://www.youtube.com/@TodaMateriaOficial/playlists)
 
+[Acervo Educa Play PR](https://www.youtube.com/@MultimeiosPR/playlists)
+
+
+
 # #Tecnologia
 [Glaucia Lemos](https://www.youtube.com/@GlauciaLemos)
+[Microsoft Reactor](https://www.youtube.com/@MicrosoftReactor)
+[WoMakersCode](https://www.youtube.com/@WoMakersCode)
+[Ada](https://www.youtube.com/@adatechbr)
+[Adriana Saty](https://www.youtube.com/@AdrianaSaty)
+
+
+
 
 # #RH
+[99Jobs](https://www.youtube.com/@99jobs)
+
 
 # #Matemática
 
+[A Matemaníaca por Julia Jaccoud](https://www.youtube.com/@amatemaniaca)
+
+
+
 # #Chinese
 
+[Little Fox Chinese - Stories & Songs for Learners](https://www.youtube.com/@LittleFoxChinese) 
+
+[2 a MAIS](https://www.youtube.com/@2AMais) Dieter e Deyse viveram um tempo na China, tem muitos vídeos do período que eles passaram lá sobre lugares, cultura, comida etc.
 
 
+# #Saúde
+[A Nova Classe](https://www.youtube.com/@anovaclasse/featured)
+
+
+[]()
+[]()
+[]()
+[]()
+[]()
 
 
