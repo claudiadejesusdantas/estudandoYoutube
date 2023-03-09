@@ -226,11 +226,7 @@ _______________________________
 
 <h2 id="tecnologia"> #Tecnologia </h2>
 
-[Glaucia Lemos](https://www.youtube.com/@GlauciaLemos)
 
-[Microsoft Reactor](https://www.youtube.com/@MicrosoftReactor)
-
-[WoMakersCode](https://www.youtube.com/@WoMakersCode)
 
 [Ada](https://www.youtube.com/@adatechbr)
 
@@ -242,7 +238,13 @@ _______________________________
 
 [Amazon News](https://www.youtube.com/@AmazonNews)
 
+[Android Developers](https://www.youtube.com/user/androiddevelopers)
+
 [Attekita Dev](https://www.youtube.com/@attekitadev)
+
+[balta.io](https://www.youtube.com/@baltaio)
+
+[Bruno Rocha - CodeShow](https://www.youtube.com/CodeShowBR)
 
 [Campus Code](https://www.youtube.com/@CampuscodeBr)
 
@@ -252,13 +254,19 @@ _______________________________
 
 [Code.org](https://www.youtube.com/@codeorg)
 
+[Codigo para todos](https://www.youtube.com/channel/UClFE1N_sMek7cyvwsAK_XJQ)
+
 [Compilado do Código Fonte TV [OFICIAL]](https://www.youtube.com/@CompiladoPodcast)
 
 [CS50](https://www.youtube.com/@cs50) CS50 é a introdução da Universidade de Harvard aos empreendimentos intelectuais da ciência da computação e da arte da programação.
 
 [Cubos Academy](https://www.youtube.com/@cubosacademy)
 
+[Curso em Video](https://www.youtube.com/@CursoemVideo)
+
 [Código Fonte TV](https://www.youtube.com/@codigofontetv)
+
+[CodeBeauty](https://www.youtube.com/@CodeBeauty) conteúdo em inglês
 
 [desenvolvedor.io](https://www.youtube.com/@desenvolvedorio)
 
@@ -271,6 +279,8 @@ _______________________________
 [DIO](https://www.youtube.com/@diomakethechange)
 
 [Diolinux](https://www.youtube.com/@Diolinux)
+
+[Edureka!](https://www.youtube.com/@edurekaIN) conteúdo em inglês
 
 [Fábio Akita](https://www.youtube.com/@Akitando)
 
@@ -292,6 +302,8 @@ _______________________________
 
 [HostGator Academy](https://www.youtube.com/@HostGatorAcademy) vídeos com conteúdos sobre tecnologia, empreendedorismo e marketing digital.
 
+[IAmTimCorey](https://www.youtube.com/@IAmTimCorey/videos) conteúdo em inglês
+
 [InfoQ Brasil](https://www.youtube.com/@InfoQBrasil) Tecnologia
 
 [Kenzie Academy BR](https://www.youtube.com/@KenzieAcademyBrasil) Tecnologia - Programação
@@ -310,11 +322,15 @@ _______________________________
 
 [Microsoft Reactor](https://www.youtube.com/@MicrosoftReactor)
 
+[Milan Jovanović](https://www.youtube.com/@MilanJovanovicTech) conteúdo em inglês
+
 [Natália F. Dev](https://www.youtube.com/@NataliaFDev)
 
 [NeoGamer](https://www.youtube.com/@NeoGamer) Jogos Eletrônicos
 
 [Notion](https://www.youtube.com/@Notion)
+
+[Nick Chapsas](https://www.youtube.com/@nickchapsas) conteúdo em inglês
 
 [Oracle do Brasil](https://www.youtube.com/@oracledobrasil)
 
@@ -332,6 +348,8 @@ _______________________________
 
 [Programming with Mosh](https://www.youtube.com/@programmingwithmosh) conteúdo em inglês
 
+[Portal Zatec Sistemas](https://www.youtube.com/@PortalZatecSistemas/videos)
+
 [Quero ser dev](https://www.youtube.com/@queroserdev)
 
 [Rafaella Ballerini](https://www.youtube.com/@rafaellaballerini)
@@ -348,10 +366,9 @@ _______________________________
 
 [TecMundo](https://www.youtube.com/@tecmundo)
 
+[Tiago Matos](https://www.youtube.com/@tiagomatosweb)
 
-
-
-
+[WoMakersCode](https://www.youtube.com/@WoMakersCode)
 
 
 ____________________________________________________
