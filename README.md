@@ -377,13 +377,15 @@ ____________________________________________________
 
 [99Jobs](https://www.youtube.com/@99jobs) - RH
 
-[Cohros - Denise Lustri](https://www.youtube.com/@CohrosDeniseLustri) - RH
-
 [Administradores](https://www.youtube.com/@administradores)
+
+[Cohros - Denise Lustri](https://www.youtube.com/@CohrosDeniseLustri) - RH
 
 [Daniel Ramos Nogueira](https://www.youtube.com/@profdanielnogueira) Vídeos sobre Contabilidade Societária, Contabilidade de Custos, Exame de Suficiência do CFC, Metodologia da Pesquisa, Elaboração de Questionário e outros recursos aplicados a Pesquisa Científica em Administração/Contabilidade.
 
 [Empreendidelas](https://www.youtube.com/@empreendidelas) Podcast Empreendidelas: um espaço de trocas de experiências sobre empreendedorismo feminino, maternidade e mercado de trabalho contemporâneo. 
+
+[FOCA no Departamento Pessoal](https://www.youtube.com/@FOCAnoDepartamentoPessoal) Tudo sobre Departamento Pessoal.
 
 [Rede Mulheres Empreendedora](https://www.youtube.com/@RedeMulherEmpreendedora) Canal do RME rede de apoio ao empreendedorismo feminino. 
 
