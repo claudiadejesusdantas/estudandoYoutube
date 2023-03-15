@@ -176,7 +176,7 @@ ______________________________________________________
 
 [GramáticaEmVídeo - Prof. Fábio Alves](https://www.youtube.com/@professorfabioalves) Português
 
-[Matematica Genial](https://www.youtube.com/c/MatematicaGenial)
+[Matematica Genial](https://www.youtube.com/c/MatematicaGenial) - Matemática
 
 [MatemáticaRio](https://www.youtube.com/@MatematicaRio) MedioFundamental - Matemática
 
