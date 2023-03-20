@@ -286,6 +286,9 @@ _______________________________
 
 [Fábio Akita](https://www.youtube.com/@Akitando)
 
+[Felipe Barreiros](https://www.youtube.com/@FelipeBarreiros/videos) - Tecnologia, inovação e negócios pela perspectiva de um empreendedor.
+
+
 [Filipe Deschamps](https://www.youtube.com/@FilipeDeschamps)
 
 [Fora da Norma](https://www.youtube.com/@ForadaNormaPodcast) Podcast do universo tech da 42SP
