@@ -79,6 +79,8 @@ ___________________________________________________________________
 
 [Inglês 200 horas](https://www.youtube.com/c/Ingles200horass/playlists)
 
+[Inglês com séries](https://www.youtube.com/channel/UCx5rxVSVCetp62-U-txlW7w/videos)
+
 [Inglês compartilhado com Tainá Alves](https://www.youtube.com/c/Ingl%C3%AAsCompartilhado)
 
 [Inglês de bolso](https://www.youtube.com/playlist?list=PLifNhj7vtELsE2cxbwCdBjp0xD4sdK4Jb)
