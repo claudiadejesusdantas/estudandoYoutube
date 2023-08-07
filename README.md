@@ -375,6 +375,8 @@ _______________________________
 
 [Tiago Matos](https://www.youtube.com/@tiagomatosweb)
 
+[Vinícius Thiengo](https://www.youtube.com/@ThiengoCalopsita/playlists) - Canal sobre Android.
+
 [WoMakersCode](https://www.youtube.com/@WoMakersCode)
 
 
