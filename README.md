@@ -158,6 +158,8 @@ ______________________________________________________
 
 <h2 id="ensinomediofundamental"> #Ensino Médio / Fundamental </h2>
 
+[A USP te espera](https://auspteespera.prg.usp.br/)
+
 [Acervo Educa Play PR](https://www.youtube.com/@MultimeiosPR/playlists)
 
 [Aula De](https://www.youtube.com/@AulaDeOnline) Conteúdos do Ensino Médio, ENEM, vestibulares e concursos
